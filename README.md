@@ -1,9 +1,30 @@
-# Fabric Example Mod
+# Victorian Gewgaws
+Victorian Gewgaws is a Minecraft mod that adds various things and stuff.
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## FAQ
 
-## License
+    "Victorian what?"
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Victorian [**GEW** _GAWS_](https://www.google.com/search?q=define+gewgaws).
+```
+/ˈɡyo͞oɡô/
+
+_noun_
+
+plural noun: gewgaws
+- a showy thing, especially one that is useless or worthless.
+```
+
+Pretty accurate name if you ask me.
+
+    "Wait so what's in this mod?"
+
+There is no central theme so literally anything I feel like adding will be in this mod.
+
+See the wiki for exact details.
+
+
+## Attribution details
+- [Logo found on Freepik](https://www.freepik.com/free-vector/fairy-tale-castle-mountains-vector-cartoon-landscape-fairytale-kingdom-with-rocks_12682467.htm)
+- [Tree vector created by upklyak - www.freepik.com](https://www.freepik.com/vectors/tree)
