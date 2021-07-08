@@ -17,7 +17,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "dev.nincodedo.VictorianGewgaws"
+            "dev.nincodedo.victorian_gewgaws.VictorianGewgaws"
         ]
     },
     "mixins": [

@@ -1,4 +1,4 @@
-package dev.nincodedo.enchantment;
+package dev.nincodedo.victorian_gewgaws.enchantment;
 
 import net.minecraft.enchantment.Enchantment;
 import net.minecraft.enchantment.EnchantmentTarget;

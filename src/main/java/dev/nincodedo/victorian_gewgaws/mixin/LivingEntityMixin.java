@@ -1,6 +1,6 @@
-package dev.nincodedo.mixin;
+package dev.nincodedo.victorian_gewgaws.mixin;
 
-import dev.nincodedo.enchantment.Enchantments;
+import dev.nincodedo.victorian_gewgaws.enchantment.Enchantments;
 import net.minecraft.enchantment.EnchantmentHelper;
 import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.effect.StatusEffectInstance;

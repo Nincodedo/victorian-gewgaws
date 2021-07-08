@@ -1,6 +1,6 @@
-package dev.nincodedo.enchantment;
+package dev.nincodedo.victorian_gewgaws.enchantment;
 
-import dev.nincodedo.VictorianGewgaws;
+import dev.nincodedo.victorian_gewgaws.VictorianGewgaws;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
