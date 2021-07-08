@@ -1,4 +1,6 @@
-# Victorian Gewgaws
+![Victorian Gewgaws](docs/images/logo_big.png "Victorian Gewgaws")
+
+# Victorian Gewgaws [![build](https://github.com/Nincodedo/victorian-gewgaws/actions/workflows/build.yml/badge.svg)](https://github.com/Nincodedo/victorian-gewgaws/actions/workflows/build.yml)
 
 Victorian Gewgaws is a Minecraft mod that adds various things and stuff.
 
