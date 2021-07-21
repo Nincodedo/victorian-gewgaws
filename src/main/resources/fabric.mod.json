@@ -18,6 +18,9 @@
     "entrypoints": {
         "main": [
             "dev.nincodedo.victorian_gewgaws.VictorianGewgaws"
+        ],
+        "modmenu": [
+            "dev.nincodedo.victorian_gewgaws.config.ModMenuIntegration"
         ]
     },
     "mixins": [

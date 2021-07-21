@@ -4,7 +4,8 @@
     "package": "dev.nincodedo.victorian_gewgaws.mixin",
     "compatibilityLevel": "JAVA_16",
     "mixins": [
-        "LivingEntityMixin"
+        "LivingEntityMixin",
+        "PlayerEntityMixin"
     ],
     "injectors": {
         "defaultRequire": 1
